@@ -1,5 +1,5 @@
 # getter
-Quickly Check The Status & Server Type of a Large number of domains
+Quickly Check The Status & Server Type of a Large number of domains,
 Also comes with added subjack functionality
 
 ## Usage
